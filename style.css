@@ -1,0 +1,117 @@
+h1{
+    width: 225px;
+    margin: auto;
+    font-weight: bolder;
+    padding: 10px;
+}
+#lin:hover{
+    width: 145px;
+    margin:auto;
+    font-weight: 700;
+    font-style: italic;
+    background-color: rgb(125, 227, 227);
+    color: solid black;
+    border-radius: 5px;
+}
+#lin{
+    width: 150px;
+    margin:auto;
+    font-weight: 700;
+    font-style: italic;
+    color: solid black;
+}
+#im:hover{
+    margin: auto;
+    width: 300px;
+    height: 350px;
+    background-color:rgb(239, 239, 28) ;
+    border: 1px solid black;
+    box-shadow: 0px 0px 5px 5px rgb(63, 56, 56);
+    border-radius: 10px;
+    padding: 20px 20px 0 20px;
+}
+#im{
+    margin: auto;
+    width: 300px;
+    height: 350px;
+    background-color:beige ;
+    border: 1px solid black;
+    box-shadow: 0px 0px 5px 5px rgb(63, 56, 56);
+    border-radius: 10px;
+    padding: 20px 20px 0 20px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+#cap{
+    padding-top: 10px;
+    line-height: 10px;
+    font-weight: 700;
+    line-height: 10px;
+    font-size: larger;
+    padding-right: 10px;
+}
+.bio:hover{
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    border: 1px dotted black;
+    background-color:rgb(152, 197, 236);
+}
+.bio{
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    border: 1px dotted black;
+    background-color:aliceblue;
+}
+#biog{
+    margin: auto;
+    width: 110px;
+}
+#gra{
+    padding: 10px;
+    font-style: italic;
+}
+.ach:hover{
+    margin: auto;
+    height: auto;
+    border-radius: 20px;
+    background-color:rgb(152, 197, 236);
+    border: 1px solid black
+}
+.ach{
+    margin: auto;
+    height: auto;
+    border-radius: 20px;
+    background-color:aliceblue;
+    border: 1px solid black;
+}
+#iev{
+    margin: auto;
+    width: 100px;
+}
+.re:hover{
+    margin: auto;
+    height: auto;
+    border-radius: 20px;
+    background-color:rgb(152, 197, 236);
+    border: 1px solid black;
+}
+.re{
+    margin: auto;
+    height: auto;
+    border-radius: 20px;
+    background-color:aliceblue;
+    border: 1px solid black;
+}
+#sou{
+    margin: auto;
+    width: 100px;
+}
+#spa{
+    margin-right: 10px;
+    font-style: italic;
+}
